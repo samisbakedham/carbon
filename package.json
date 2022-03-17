@@ -32,7 +32,7 @@
     "@next/bundle-analyzer": "^12.0.7",
     "@reach/visually-hidden": "^0.16.0",
     "actionsack": "^0.0.15",
-    "axios": "^0.24.0",
+    "axios": "^0.26.0",
     "chrome-aws-lambda": "^8.0.2",
     "cm-show-invisibles": "^3.1.0",
     "codemirror": "5.65.1",
